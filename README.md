@@ -7,9 +7,7 @@ This project is an interactive Power BI dashboard designed to analyze student ac
 ## Features
 
 - Student Count KPI
-- Average Math Score
-- Average Reading Score
-- Average Writing Score
+- Average Reading, Writing,Math Score
 - Overall Average Score Percentage
 - Performance Analysis by Ethnicity
 - Performance Analysis by Gender
